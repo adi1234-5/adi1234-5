@@ -13,7 +13,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=adi1234-5&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 # 🐍 Contribution Snake
-![GitHub Snake Animation](https://raw.githubusercontent.com/adi1234-5/adi1234-5/output/github-contribution-grid-snake.svg)
+![GitHub Snake Animation](https://raw.githubusercontent.com/adi1234-5/adi1234-5/main/github-contribution-grid-snake.svg)
 
 
 ## 🏆 GitHub Trophies
